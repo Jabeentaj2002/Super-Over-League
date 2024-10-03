@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bgContainer {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  color: #ffffff;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+.card-container {
+  display: flex;
+}
